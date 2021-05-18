@@ -26,7 +26,6 @@ This replication package is structured as follows:
 * [Publication](https://ieeexplore.ieee.org/document/8047991/)
 
 ### Current study (Update)
-* [Protocol [pdf]]() - TODO - https://www.overleaf.com/1633676582pzbjmvkrrsgk
 * [Classification schema changes [pdf]](/ClassificationSchemaChanges.pdf)
 * [Extracted data spreadsheet [xlsx]](/DataExtractionForm-FINAL.xlsx)
 * [Complete list of the 54 primary studies and the 29 clusters [pdf]](/Corpus.pdf)
