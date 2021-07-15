@@ -31,6 +31,10 @@ This replication package is structured as follows:
 * `ClassificationSchemaChanges.pdf` - Classification schema changes.
 * `DataExtractionForm-FINAL.xlsx` - Extracted data spreadsheet.
 
+### Protocol
+
+This work follows the protocol of the original study with minor adaptations clearly described in the paper.
+
 ### Original study
 * [Protocol and replication package](http://people.disim.univaq.it/mirco.franzago/collaborativeMDSE)
 * [Publication](https://ieeexplore.ieee.org/document/8047991/)
