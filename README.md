@@ -1,5 +1,5 @@
 
-# cmdse-2021-replication-package
+# models-2021-replication-package
 
 Replication package for the paper _Collaborative Model-Driven Software Engineering: A Systematic Update_.
 
