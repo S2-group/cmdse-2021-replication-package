@@ -1,7 +1,7 @@
 
 # MODELS 2021 Replication Package
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5128376.svg)](https://doi.org/10.5281/zenodo.5128376)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5128416.svg)](https://doi.org/10.5281/zenodo.5128416)
 
 Replication package for the paper _Collaborative Model-Driven Software Engineering: A Systematic Update_.
 
